@@ -83,13 +83,14 @@ DatabaseConnection.java
 <img width="712" height="612" alt="Screenshot 2026-04-13 at 11 49 44 AM" src="https://github.com/user-attachments/assets/cd567112-1dfb-4d21-8afd-e6ddce83c8b5" />
 
 * Booking Success
-  <img width="712" height="612" alt="Screenshot 2026-04-13 at 11 49 44 AM" src="https://github.com/user-attachments/assets/ffb61a85-16f5-4bee-9f9c-c5467a238f11" />
+<img width="712" height="612" alt="Screenshot 2026-04-13 at 11 49 44 AM" src="https://github.com/user-attachments/assets/ffb61a85-16f5-4bee-9f9c-c5467a238f11"/>
 
 * Simulating multiple user bookings
-  <img width="712" height="612" alt="Screenshot 2026-04-13 at 11 50 30 AM" src="https://github.com/user-attachments/assets/ddcd341c-55b6-456b-aab3-aadeee174420" />
+<img width="712" height="612" alt="Screenshot 2026-04-13 at 11 50 30 AM" src="https://github.com/user-attachments/assets/ddcd341c-55b6-456b-aab3-aadeee174420"/>
 
 * Booking failed for user with unvailable cab
-  <img width="712" height="612" alt="Screenshot 2026-04-13 at 11 50 38 AM" src="https://github.com/user-attachments/assets/18db468c-cd1b-42c4-8546-1020b07930dd" />
+<img width="712" height="612" alt="Screenshot 2026-04-13 at 11 50 38 AM" src="https://github.com/user-attachments/assets/18db468c-cd1b-42c4-8546-1020b07930dd"/>
+  
 ---
 
 ## 📊 Sample Cab Data
