@@ -7,7 +7,7 @@ public class DatabaseConnection {
     
     private static final String URL = "jdbc:mysql://localhost:3306/cab_booking?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC";
     private static final String USER = "root";
-    private static final String PASSWORD = "Mittu@2005";
+    private static final String PASSWORD = "root";
     
     public static Connection getConnection() throws SQLException {
         try {
